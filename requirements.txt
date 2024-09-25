@@ -1,0 +1,5 @@
+opencv-python==4.8.0.74  
+ultralytics==8.0.0     
+azure-storage-blob==12.14.1  
+python-dotenv==1.0.0    
+numpy==1.23.5 
